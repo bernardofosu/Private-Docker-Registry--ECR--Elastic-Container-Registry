@@ -1,0 +1,4 @@
+flask==3.0.3
+# flask_sqlalchemy==3.0.3
+# flask_sqlalchemy==3.0.4
+# flask_migrate==4.0.4
